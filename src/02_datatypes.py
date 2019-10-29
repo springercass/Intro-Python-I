@@ -15,13 +15,13 @@ y = "7"
 
 # YOUR CODE HERE
 x = 5
-y = 7
-x + y
+y = "7"
+x + int(y)
 
 
 # Write a print statement that combines x + y into the string value 57
 
 # YOUR CODE HERE
-x = 20
-y = 37
-x + y
+x = 5
+y = "7"
+str(x) + y
